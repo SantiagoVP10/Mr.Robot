@@ -1,0 +1,212 @@
+*{
+	background: black;
+	color: white;
+	border: 10px;
+}
+#titulo{
+	text-align: center;
+	color: white;
+	font-size: 100px;
+}
+
+img{
+	display: block;
+	margin: auto;
+	width: 333px;
+	height: 200px;
+	float:left;
+}
+
+#reseña{
+	text-align: center;
+	font-size: 50px;
+}
+#text1{
+	text-align: center;
+	font-size: 25px;
+
+}
+
+span{
+	color: red;
+}
+
+h2{
+	font-size: 40px;
+}
+
+#t1{
+	margin-right: 167px;
+}
+
+#t2{
+	margin-right: 167px;
+}
+
+a{
+	color: blue;
+}
+
+#img1{
+	margin-right: 420px;
+}
+
+#img2{
+	margin-right: 420px;
+}
+
+#info{
+	font-size: 20px;
+}
+
+ #personaje{
+ 	width: 300px;
+ 	height: 150px;
+ 	font-size: 20px;
+ 	float: left;
+ }
+
+#personaje2{
+ 	width: 300px;
+ 	height: 150px;
+ 	font-size: 20px;
+ 	float: left;
+ 	margin-left: 44px;
+ }
+
+#personaje3{
+ 	width: 300px;
+ 	height: 150px;
+ 	font-size: 20px;
+ 	float: left;
+ 	margin-left: 44px;
+ }
+
+ #personaje4{
+ 	width: 300px;
+ 	height: 150px;
+ 	font-size: 20px;
+ 	float: left;
+ 	margin-left: 44px;
+ }
+
+  #personaje5{
+ 	width: 300px;
+ 	height: 150px;
+ 	font-size: 20px;
+ 	float: left;
+ }
+
+#personaje6{
+ 	width: 300px;
+ 	height: 150px;
+ 	font-size: 20px;
+ 	float: left;
+ 	margin-left: 44px;
+ }
+
+#personaje7{
+ 	width: 300px;
+ 	height: 150px;
+ 	font-size: 20px;
+ 	float: left;
+ 	margin-left: 44px;
+ }
+
+ #personaje8{
+ 	width: 300px;
+ 	height: 150px;
+ 	font-size: 20px;
+ 	float: left;
+ 	margin-left: 44px;
+ }
+
+#personaje9{
+ 	width: 300px;
+ 	height: 150px;
+ 	font-size: 20px;
+ 	float: left;
+ 	margin-left: 344px;
+ }
+
+ #personaje10{
+ 	width: 300px;
+ 	height: 150px;
+ 	font-size: 20px;
+ 	float: left;
+ 	margin-left: 44px;
+ }
+
+ #per1{
+ 	font-size: 25px;
+ }
+
+ #mr1{
+ 	width: 300px;
+ 	height: 150px;
+ 	margin-right: 44px;
+ }
+
+  #mr2{
+ 	width: 300px;
+ 	height: 150px;
+ 	margin-right: 44px;
+ }
+
+  #mr3{
+ 	width: 300px;
+ 	height: 150px;
+ 	margin-right: 44px;
+ }
+
+ #mr4{
+ 	width: 300px;
+ 	height: 150px;
+ }
+
+  #mr5{
+ 	width: 300px;
+ 	height: 150px;
+ 	margin-right: 44px;
+ }
+
+  #mr6{
+ 	width: 300px;
+ 	height: 150px;
+ 	margin-right: 44px;
+ }
+
+  #mr7{
+ 	width: 300px;
+ 	height: 150px;
+ 	margin-right: 44px;
+ }
+
+ #mr8{
+ 	width: 300px;
+ 	height: 150px;
+ }
+
+#mr9{
+ 	width: 300px;
+ 	height: 150px;
+ 	margin-right: 44px;
+ 	margin-top: 15px;
+ 	margin-left: 344px;
+ }
+
+#mr10{
+	margin-top: 15px;
+ 	width: 300px;
+ 	height: 150px;
+ }
+
+#sound{
+	float: left;
+	margin-right: 50px;
+}
+
+#text_sound, #text_sound2{
+	font-size: 20px;
+}
+

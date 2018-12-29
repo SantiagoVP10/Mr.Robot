@@ -1,0 +1,42 @@
+*{
+	background: black;
+	color: white;
+	border: 10px;
+}
+#titulo{
+	text-align: center;
+	color: white;
+	font-size: 65px;
+}
+
+img{
+	width: 250px;
+	height: 400px;
+}
+
+#reseña{
+	text-align: left;
+	font-size: 50px;
+}
+
+#texto1{
+	font-size: 25px;
+}
+
+#capitulos{
+	margin-top: 55px;
+	text-align: left;
+	font-size: 30px;
+}
+
+#texto2{
+	font-size: 20px;
+}
+ 
+a{
+	color: blue;
+}
+
+#elenco{
+	font-size: 30px;
+}
